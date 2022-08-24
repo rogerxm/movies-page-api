@@ -1,0 +1,1 @@
+console.log('API URL = https://asdkasd.com/askdjaksd?api_key=' + API_KEY);
